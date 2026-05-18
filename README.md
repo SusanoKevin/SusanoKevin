@@ -280,13 +280,13 @@ Two-year stint in a high-volume campus IT environment — grew from support tech
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SusanoKevin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SusanoKevin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusanoKevin&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SusanoKevin&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SusanoKevin&theme=dark&hide_border=true&background=0d1117&ring=00d4ff&fire=ff3c3c&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=c9d1d9" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=SusanoKevin&theme=dark&hide_border=true&background=0d1117&ring=00d4ff&fire=ff3c3c&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=c9d1d9" width="60%"/>
 
 <br/><br/>
 
