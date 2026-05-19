@@ -77,6 +77,7 @@ directive:      "Turn raw data into decisive intelligence."
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-00d4ff?style=for-the-badge&logoColor=white)
 
 ### Frontend
@@ -140,7 +141,7 @@ directive:      "Turn raw data into decisive intelligence."
 Leading the design and implementation of **Agentic AI solutions** for the **Excelsis360** education platform — the primary driver of the platform's intelligent automation capabilities.
 
 - Heading all Agentic AI initiatives for Excelsis360, architecting autonomous agent systems that handle complex, multi-step educational workflows end-to-end
-- Designing and developing the **Excelsis Attendance Agent** — an AI agent to fully automate attendance tracking and eliminate manual data entry across the platform
+- Built the **Excelsis Data Agent** — a full-stack AI analyst with a LangGraph ReAct agent (13 tools), ChromaDB RAG layer (Ollama embeddings) for grounded schema and policy answers, SSE-streaming FastAPI backend, and a React + Tailwind frontend; schema is configurable to any SQL domain
 - Defining the Agentic AI roadmap: identifying high-value automation targets, designing agent pipelines, and delivering working solutions into the live product
 
 </details>
@@ -219,12 +220,12 @@ Two-year stint in a high-volume campus IT environment — grew from support tech
 ![A-Rank](https://img.shields.io/badge/▲_A--RANK-ff8c00?style=for-the-badge)
 
 </td>
-<td align="left"><b>Excelsis Attendance Agent</b></td>
-<td align="left">AI attendance automation agent in active development for the <b>Excelsis360</b> education platform. Designing multi-step agentic pipelines using LangChain and LangGraph to autonomously handle end-to-end attendance workflows.</td>
-<td align="left"><code>Python</code> <code>LangChain</code> <code>LangGraph</code> <code>FastAPI</code> <code>React</code> <code>TypeScript</code> <code>MCP</code> <code>Ollama</code></td>
+<td align="left"><b>Excelsis Data Agent</b></td>
+<td align="left">Full-stack AI data analyst deployed on the <b>Excelsis360</b> platform. LangGraph ReAct agent (13 tools) backed by SQL Server, a ChromaDB RAG layer for grounded schema and policy answers, SSE-streaming FastAPI backend with JWT auth and rate limiting, and a React + Tailwind frontend. Configurable to any tabular SQL domain.</td>
+<td align="left"><code>Python</code> <code>LangChain</code> <code>LangGraph</code> <code>FastAPI</code> <code>React</code> <code>TypeScript</code> <code>SQL Server</code> <code>ChromaDB</code> <code>Ollama</code> <code>MCP</code></td>
 <td align="center">
 
-[![View](https://img.shields.io/badge/DEPLOY_%E2%86%92-00d4ff?style=flat-square)](https://github.com/SusanoKevin/Excelsis-Attendance-Agent)
+[![View](https://img.shields.io/badge/DEPLOY_%E2%86%92-00d4ff?style=flat-square)](https://github.com/SusanoKevin/Excelsis-Data-Analyst-Agent)
 
 </td>
 </tr>
