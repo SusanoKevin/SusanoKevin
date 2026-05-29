@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0d1117,001a33,002233,00d4ff&height=240&section=header&text=%5B%20OPERATIVE%20FILE%20%5D&fontSize=42&fontColor=00d4ff&animation=fadeIn&fontAlignY=36&desc=Susano%20Kevin%20%E2%80%94%20Data%20Phantom%20%7C%20AI%20Engineer%20%7C%20Milwaukee%2C%20WI&descAlignY=58&descSize=16&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0d1117,001a33,002233,00d4ff&height=240&section=header&text=%5B%20OPERATIVE%20FILE%20%5D&fontSize=42&fontColor=00d4ff&animation=fadeIn&fontAlignY=36&desc=Susano%20Kevin%20%E2%80%94%20Data%20Phantom%20%7C%20AI%20Engineer%20%7C%20Menomonee%20Falls%2C%20WI&descAlignY=58&descSize=16&descColor=ffffff" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+Agentic+AI+systems+for+Excelsis360;LangChain+%E2%80%A2+LangGraph+%E2%80%A2+FastAPI+%E2%80%A2+React+%E2%80%A2+TypeScript;Random+Forest+%E2%80%A2+SMOTE+%E2%80%A2+GridSearchCV+%E2%80%A2+80%25%2B+Accuracy;M.S.+IT+Management+%E2%80%94+Data+Analytics+%26+AI+%7C+UW-Milwaukee;Current+Status%3A+ACTIVE+%E2%80%94+Excellerate+Education+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%E2%80%94+Multi-Agent+Systems+%26+MLOps;LangChain+%E2%80%A2+LangGraph+%E2%80%A2+FastAPI+%E2%80%A2+Milvus+%E2%80%A2+Pinecone;MLflow+%E2%80%A2+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+Airflow+%E2%80%A2+AWS+EKS;M.S.+IT+Management+%E2%80%94+Data+Analytics+%26+AI+%7C+UW-Milwaukee;Current+Status%3A+ACTIVE+%E2%80%94+Excellerate+Education+Solutions)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,8 +16,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/%F0%9F%94%97_LinkedIn-susano--kevin-0A66C2?style=for-the-badge&logoColor=white)](https://linkedin.com/in/susano-kevin/)&nbsp;
 [![GitHub](https://img.shields.io/badge/%F0%9F%90%88_GitHub-SusanoKevin-181717?style=for-the-badge&logoColor=white)](https://github.com/SusanoKevin)&nbsp;
-[![Email](https://img.shields.io/badge/%E2%9C%89_Mail-susanokevin40%40gmail.com-D14836?style=for-the-badge&logoColor=white)](mailto:susanokevin40@gmail.com)&nbsp;
-![Location](https://img.shields.io/badge/%F0%9F%93%8D_Base-Milwaukee%2C%20WI-00d4ff?style=for-the-badge&logoColor=white)
+[![Email](https://img.shields.io/badge/%E2%9C%89_Mail-susanokevinamalamahilmaran%40gmail.com-D14836?style=for-the-badge&logoColor=white)](mailto:susanokevinamalamahilmaran@gmail.com)&nbsp;
+![Location](https://img.shields.io/badge/%F0%9F%93%8D_Base-Menomonee%20Falls%2C%20WI-00d4ff?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -36,9 +36,9 @@ operative:
   status:       ACTIVE
 
 current_mission:
-  role:         "Software Engineer Intern (Agentic AI)"
+  role:         "AI Engineer"
   organization: "Excellerate Education Solutions"
-  objective:    "Head all Agentic AI development for the Excelsis360 platform"
+  objective:    "Architect and deploy production-grade multi-agent AI systems for admissions guidance and career recommendations"
   since:        "January 2026"
 
 credentials:
@@ -65,6 +65,7 @@ directive:      "Turn raw data into decisive intelligence."
 ### Core Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -75,7 +76,10 @@ directive:      "Turn raw data into decisive intelligence."
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B2FBE?style=for-the-badge&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-00d4ff?style=for-the-badge&logoColor=white)
@@ -88,11 +92,30 @@ directive:      "Turn raw data into decisive intelligence."
 
 ### Data & Machine Learning
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge&logo=python&logoColor=white)
+
+### MLOps & DevOps
+
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### Cloud Platforms
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Cloud, BI & Platforms
 
@@ -110,21 +133,38 @@ directive:      "Turn raw data into decisive intelligence."
 | Skill | Level | Proficiency |
 |-------|-------|-------------|
 | Python | `████████▓░` | 85% |
+| OpenAI | `████████▒░` | 82% |
 | SQL | `████████▒░` | 82% |
 | Pandas | `████████▒░` | 83% |
 | scikit-learn | `████████▒░` | 82% |
 | NumPy | `████████░░` | 80% |
+| PostgreSQL | `████████░░` | 80% |
 | Excel / Access | `████████░░` | 80% |
+| LangChain / LangGraph | `████████░░` | 80% |
+| Anthropic Claude | `███████▒░░` | 78% |
+| FastAPI | `███████▒░░` | 78% |
+| Docker | `███████▒░░` | 78% |
 | Matplotlib / Seaborn | `███████▒░░` | 78% |
 | Snowflake | `███████▒░░` | 78% |
-| LangChain / LangGraph | `███████░░░` | 75% |
-| FastAPI | `███████░░░` | 75% |
+| AWS | `███████░░░` | 75% |
+| MLflow | `███████░░░` | 75% |
+| Apache Airflow | `███████░░░` | 75% |
+| FAISS / ChromaDB | `███████░░░` | 75% |
 | Streamlit | `███████░░░` | 75% |
-| React | `██████▓░░░` | 68% |
-| TypeScript | `██████▓░░░` | 68% |
+| Kubernetes | `███████░░░` | 72% |
+| GitHub Actions | `███████░░░` | 72% |
+| LlamaIndex | `███████░░` | 72% |
+| PyTorch | `███████░░` | 72% |
 | Power BI | `███████░░░` | 72% |
 | SQL Server | `███████░░░` | 72% |
+| Llama / Mistral | `███████░░` | 72% |
+| Java | `███████░░░` | 70% |
 | HTML / CSS | `███████░░░` | 70% |
+| Hugging Face | `███████░░` | 70% |
+| React | `██████▓░░░` | 68% |
+| TypeScript | `██████▓░░░` | 68% |
+| RAGAS | `██████▓░░` | 68% |
+| MongoDB | `██████▓░░` | 68% |
 | JavaScript | `██████▒░░░` | 65% |
 
 ---
@@ -132,51 +172,74 @@ directive:      "Turn raw data into decisive intelligence."
 ## `[003]` MISSION LOG — FIELD EXPERIENCE
 
 <details>
-<summary><b>⚡ Software Engineer Intern (Agentic AI) — Excellerate Education Solutions &nbsp;|&nbsp; Jan 2026 – Present &nbsp;|&nbsp; <code>ACTIVE DEPLOYMENT</code></b></summary>
+<summary><b>⚡ AI Engineer — Excellerate Education Solutions &nbsp;|&nbsp; Jan 2026 – Present &nbsp;|&nbsp; <code>ACTIVE DEPLOYMENT</code></b></summary>
 
 <br/>
 
 > *Location: Illinois*
 
-Leading the design and implementation of **Agentic AI solutions** for the **Excelsis360** education platform — the primary driver of the platform's intelligent automation capabilities.
+Architecting and deploying **production-grade multi-agent AI systems** for admissions guidance and career recommendations across the **Excelsis360** education platform.
 
-- Heading all Agentic AI initiatives for Excelsis360, architecting autonomous agent systems that handle complex, multi-step educational workflows end-to-end
-- Built the **Excelsis Data Agent** — a full-stack AI analyst with a LangGraph ReAct agent (13 tools), ChromaDB RAG layer (Ollama embeddings) for grounded schema and policy answers, SSE-streaming FastAPI backend, and a React + Tailwind frontend; schema is configurable to any SQL domain
-- Defining the Agentic AI roadmap: identifying high-value automation targets, designing agent pipelines, and delivering working solutions into the live product
-
-</details>
-
----
-
-<details>
-<summary><b>🛠 Help Desk Technician — Carroll University &nbsp;|&nbsp; Sep 2023 – May 2024 &nbsp;|&nbsp; <code>COMPLETED</code></b></summary>
-
-<br/>
-
-> *Location: Waukesha, WI*
-
-Front-line technical operations: end-user support, hardware/software triage, and system configuration across a live campus environment.
-
-- Delivered first-level technical support and conducted end-user training sessions for campus software applications
-- Managed help desk ticket queue — diagnosed and resolved hardware and software issues for faculty, staff, and students
-- Configured new workstations, maintained accurate service records, and assisted with system upgrade rollouts
+- Architected and deployed a multi-agent AI assistant using **LangGraph** and **LangChain** through coordinated planning, retrieval, evaluation, and response-generation agents with supervisor–worker orchestration
+- Designed specialized agents for document analysis, eligibility verification, scholarship discovery, and career planning with dynamic routing
+- Built end-to-end document ingestion pipelines using **Unstructured.io** for parsing, chunking, and metadata enrichment of PDFs, forms, and institutional documents
+- Generated embeddings with **OpenAI Embeddings** and indexed vectors in **Milvus** and **Pinecone** with document-level metadata for scalable semantic retrieval
+- Implemented hybrid retrieval combining BM25 keyword search, dense vector similarity, metadata filtering, and reranking to improve citation grounding
+- Developed query optimization pipelines using NER, multi-query expansion, and metadata-aware filtering for ambiguous questions
+- Implemented **ReAct-based planning** workflows decomposing complex requests into structured subtasks during action–observation loops
+- Integrated tool calling with internal APIs, CRM systems, vector stores, and external scholarship and labor-market data sources
+- Built short-term conversational memory and long-term persistent memory using vector stores and structured state management
+- Added **human-in-the-loop** approval workflows for sensitive recommendations before final delivery
+- Evaluated system quality using ground-truth datasets, citation accuracy checks, tool-call success tracking, and regression testing
+- Implemented confidence-based routing, fallback logic, retry policies, and rate limiting for production robustness
+- Deployed agent services through **FastAPI**, **Docker**, and **Kubernetes** on **Amazon EKS**
+- Added observability using **LangSmith**, structured logging, **CloudWatch**, and **Grafana** for tracing, latency, token usage, and retrieval diagnostics
+- Optimized prompts, context-window utilization, and caching strategies — **reducing inference costs by 30%**
 
 </details>
 
 ---
 
 <details>
-<summary><b>🛠 Help Desk Technician — Cardinal Stritch University &nbsp;|&nbsp; May 2021 – May 2023 &nbsp;|&nbsp; <code>COMPLETED</code></b></summary>
+<summary><b>⚙️ Machine Learning Engineer / MLOps Intern — TalentScreen &nbsp;|&nbsp; Sep 2023 – May 2024 &nbsp;|&nbsp; <code>COMPLETED</code></b></summary>
 
 <br/>
 
-> *Location: Milwaukee, WI*
+> *Location: Dublin, CA*
 
-Two-year stint in a high-volume campus IT environment — grew from support technician to student supervisor.
+Built automated ML pipelines, MLOps infrastructure, and model-serving APIs for academic and talent analytics applications.
 
-- Trained and supervised student workers on job functions and task completion within the Track-IT system
-- Maintained team performance standards — ensured all work was completed professionally and within SLA deadlines
-- Served as a direct point of contact for complex technology issues, providing guided resolution to clients
+- Built automated ETL pipelines to ingest academic policies, course catalogs, and student-support documents from PDFs and databases into analytics-ready storage
+- Implemented data versioning using **DVC** and stored datasets and model artifacts in **Amazon S3** for reproducibility and traceability
+- Developed feature engineering workflows and maintained curated feature sets for downstream ML and retrieval applications
+- Orchestrated data and model pipelines using **Apache Airflow** to automate ingestion, validation, retraining, and deployment tasks
+- Used **MLflow** for experiment tracking, artifact management, and model version control
+- Built CI/CD pipelines with **GitHub Actions** to automate testing, container builds, and deployment workflows
+- Deployed model-serving APIs using **FastAPI**, **Docker**, and **Kubernetes**
+- Implemented A/B testing infrastructure and traffic routing to compare model versions in production
+- Added monitoring for pipeline latency, resource utilization, and prediction-service health using **CloudWatch** and **Grafana**
+- Established structured logging, alerting, and failure notifications to improve operational reliability
+
+</details>
+
+---
+
+<details>
+<summary><b>🛠 Software Engineer Intern — TalentScreen &nbsp;|&nbsp; May 2021 – May 2023 &nbsp;|&nbsp; <code>COMPLETED</code></b></summary>
+
+<br/>
+
+> *Location: Dublin, CA*
+
+Developed backend services, REST APIs, and ETL workflows supporting student analytics and internal applications.
+
+- Developed backend services and REST APIs using **Python** and **FastAPI** to support student analytics and internal applications
+- Built ETL workflows to ingest and transform academic, attendance, and demographic data from relational databases
+- Designed relational schemas and optimized complex **PostgreSQL** queries — **reducing batch processing time by 35%**
+- Implemented automated batch processing and scheduled workflows using **Apache Airflow**
+- Containerized applications using **Docker** and deployed them on **Amazon EC2**
+- Integrated application logging, monitoring, and alerting using **Amazon CloudWatch**
+- Collaborated with data science and business teams to productionize predictive analytics solutions and automate reporting workflows
 
 </details>
 
@@ -310,7 +373,7 @@ Two-year stint in a high-volume campus IT environment — grew from support tech
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/susano-kevin/)&nbsp;
-[![Email](https://img.shields.io/badge/Send_a_Signal-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:susanokevin40@gmail.com)&nbsp;
+[![Email](https://img.shields.io/badge/Send_a_Signal-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:susanokevinamalamahilmaran@gmail.com)&nbsp;
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SusanoKevin)
 
 <br/><br/>
