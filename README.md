@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%E2%80%94+Multi-Agent+Systems+%26+MLOps;LangChain+%E2%80%A2+LangGraph+%E2%80%A2+FastAPI+%E2%80%A2+Milvus+%E2%80%A2+Pinecone;MLflow+%E2%80%A2+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+Airflow+%E2%80%A2+AWS+EKS;M.S.+IT+Management+%E2%80%94+Data+Analytics+%26+AI+%7C+UW-Milwaukee;Current+Status%3A+ACTIVE+%E2%80%94+Excellerate+Education+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%E2%80%94+Agentic+AI+%26+Full-Stack;LangGraph+%E2%80%A2+RAG+%E2%80%A2+FastAPI+%E2%80%A2+ChromaDB;Python+%E2%80%A2+AWS+Bedrock+%E2%80%A2+Snowflake+%E2%80%A2+Redis+%E2%80%A2+Docker;M.S.+IT+Management+%E2%80%94+Data+Analytics+%26+AI+%7C+UW-Milwaukee;Current+Status%3A+ACTIVE+%E2%80%94+Excellerate+Education+Solutions)](https://git.io/typing-svg)
 
 </div>
 
@@ -178,68 +178,46 @@ directive:      "Turn raw data into decisive intelligence."
 
 > *Location: Illinois*
 
-Architecting and deploying **production-grade multi-agent AI systems** for admissions guidance and career recommendations across the **Excelsis360** education platform.
+Building a **production-grade AI-powered data analyst agent** deployed to 100+ educational institutions across the U.S. and India, on the **Excelsis360** education platform.
 
-- Architected and deployed a multi-agent AI assistant using **LangGraph** and **LangChain** through coordinated planning, retrieval, evaluation, and response-generation agents with supervisor–worker orchestration
-- Designed specialized agents for document analysis, eligibility verification, scholarship discovery, and career planning with dynamic routing
-- Built end-to-end document ingestion pipelines using **Unstructured.io** for parsing, chunking, and metadata enrichment of PDFs, forms, and institutional documents
-- Generated embeddings with **OpenAI Embeddings** and indexed vectors in **Milvus** and **Pinecone** with document-level metadata for scalable semantic retrieval
-- Implemented hybrid retrieval combining BM25 keyword search, dense vector similarity, metadata filtering, and reranking to improve citation grounding
-- Developed query optimization pipelines using NER, multi-query expansion, and metadata-aware filtering for ambiguous questions
-- Implemented **ReAct-based planning** workflows decomposing complex requests into structured subtasks during action–observation loops
-- Integrated tool calling with internal APIs, CRM systems, vector stores, and external scholarship and labor-market data sources
-- Built short-term conversational memory and long-term persistent memory using vector stores and structured state management
-- Added **human-in-the-loop** approval workflows for sensitive recommendations before final delivery
-- Evaluated system quality using ground-truth datasets, citation accuracy checks, tool-call success tracking, and regression testing
-- Implemented confidence-based routing, fallback logic, retry policies, and rate limiting for production robustness
-- Deployed agent services through **FastAPI**, **Docker**, and **Kubernetes** on **Amazon EKS**
-- Added observability using **LangSmith**, structured logging, **CloudWatch**, and **Grafana** for tracing, latency, token usage, and retrieval diagnostics
-- Optimized prompts, context-window utilization, and caching strategies — **reducing inference costs by 30%**
+- Built a production-grade AI-powered data analyst agent using **LangGraph's ReAct framework**, deployed to **100+ educational institutions** across the U.S. and India, to answer natural-language questions over SQL Server data
+- Delivered a token-by-token streaming chat experience through a **FastAPI + SSE** backend, and implemented a **RAG knowledge base with ChromaDB** to ground SQL and policy queries
+- Secured the API with **JWT authentication** and **Redis**-backed rate limiting
+- Developed an interactive **React/Recharts** dashboard with Power BI–style cross-filtering and drill-down
+- Built a Jupyter notebook and an **MCP server** integration for Claude Code
 
 </details>
 
 ---
 
 <details>
-<summary><b>⚙️ Machine Learning Engineer / MLOps Intern — TalentScreen &nbsp;|&nbsp; Sep 2023 – May 2024 &nbsp;|&nbsp; <code>COMPLETED</code></b></summary>
+<summary><b>🖥️ Help Desk Technician — Carroll University &nbsp;|&nbsp; Sep 2023 – May 2024 &nbsp;|&nbsp; <code>COMPLETED</code></b></summary>
 
 <br/>
 
-> *Location: Dublin, CA*
+> *Location: Waukesha, WI*
 
-Built automated ML pipelines, MLOps infrastructure, and model-serving APIs for academic and talent analytics applications.
+Provided first-level technical support and end-user training for software applications.
 
-- Built automated ETL pipelines to ingest academic policies, course catalogs, and student-support documents from PDFs and databases into analytics-ready storage
-- Implemented data versioning using **DVC** and stored datasets and model artifacts in **Amazon S3** for reproducibility and traceability
-- Developed feature engineering workflows and maintained curated feature sets for downstream ML and retrieval applications
-- Orchestrated data and model pipelines using **Apache Airflow** to automate ingestion, validation, retraining, and deployment tasks
-- Used **MLflow** for experiment tracking, artifact management, and model version control
-- Built CI/CD pipelines with **GitHub Actions** to automate testing, container builds, and deployment workflows
-- Deployed model-serving APIs using **FastAPI**, **Docker**, and **Kubernetes**
-- Implemented A/B testing infrastructure and traffic routing to compare model versions in production
-- Added monitoring for pipeline latency, resource utilization, and prediction-service health using **CloudWatch** and **Grafana**
-- Established structured logging, alerting, and failure notifications to improve operational reliability
+- Provided first-level technical support and end-user training for software applications
+- Resolved hardware and software issues via the help desk ticketing system
+- Set up new workstation configurations for faculty, staff, and students
 
 </details>
 
 ---
 
 <details>
-<summary><b>🛠 Software Engineer Intern — TalentScreen &nbsp;|&nbsp; May 2021 – May 2023 &nbsp;|&nbsp; <code>COMPLETED</code></b></summary>
+<summary><b>🎧 Help Desk Technician — Cardinal Stritch University &nbsp;|&nbsp; May 2021 – May 2023 &nbsp;|&nbsp; <code>COMPLETED</code></b></summary>
 
 <br/>
 
-> *Location: Dublin, CA*
+> *Location: Milwaukee, WI*
 
-Developed backend services, REST APIs, and ETL workflows supporting student analytics and internal applications.
+Trained and supervised student workers on the Track-IT ticketing system.
 
-- Developed backend services and REST APIs using **Python** and **FastAPI** to support student analytics and internal applications
-- Built ETL workflows to ingest and transform academic, attendance, and demographic data from relational databases
-- Designed relational schemas and optimized complex **PostgreSQL** queries — **reducing batch processing time by 35%**
-- Implemented automated batch processing and scheduled workflows using **Apache Airflow**
-- Containerized applications using **Docker** and deployed them on **Amazon EC2**
-- Integrated application logging, monitoring, and alerting using **Amazon CloudWatch**
-- Collaborated with data science and business teams to productionize predictive analytics solutions and automate reporting workflows
+- Trained and supervised student workers on the **Track-IT** ticketing system
+- Resolved system-related and technology-related issues for faculty, staff, and students through clear guidance and support
 
 </details>
 
