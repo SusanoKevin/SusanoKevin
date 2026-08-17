@@ -178,13 +178,14 @@ directive:      "Turn raw data into decisive intelligence."
 
 > *Location: Illinois*
 
-Building a **production-grade AI-powered data analyst agent** deployed to 100+ educational institutions across the U.S. and India, on the **Excelsis360** education platform.
+Building a **production-grade AI-powered data analyst agent** deployed to 100+ educational institutions across the U.S. and India, on the **Excelsis360** education platform, and collaborating on **Excellerate Bot** — a multitenant natural-language-to-SQL platform for the org.
 
 - Built a production-grade AI-powered data analyst agent using **LangGraph's ReAct framework**, deployed to **100+ educational institutions** across the U.S. and India, to answer natural-language questions over SQL Server data
 - Delivered a token-by-token streaming chat experience through a **FastAPI + SSE** backend, and implemented a **RAG knowledge base with ChromaDB** to ground SQL and policy queries
 - Secured the API with **JWT authentication** and **Redis**-backed rate limiting
 - Developed an interactive **React/Recharts** dashboard with Power BI–style cross-filtering and drill-down
 - Built a Jupyter notebook and an **MCP server** integration for Claude Code
+- Collaborated on rebuilding the platform as a multitenant SaaS product (**Excellerate Bot**) — `context_id` tenancy over **PostgreSQL/SQL Server**, **pgvector RAG**, cost-tiered model routing across **Ollama/AWS Bedrock** with guard-triggered escalation, and a three-layer **sqlglot**-based SQL safety guard
 
 </details>
 
@@ -245,6 +246,22 @@ Trained and supervised student workers on the Track-IT ticketing system.
 ![S-Rank](https://img.shields.io/badge/★_S--RANK-ff3c3c?style=for-the-badge)
 
 </td>
+<td align="left"><b>Excellerate Bot</b></td>
+<td align="left">Multitenant natural-language-to-SQL chatbot platform for Excellerate Education Solutions. <code>context_id</code>-scoped tenants over PostgreSQL and SQL Server, pgvector RAG for schema-grounded SQL generation, and a self-serve admin panel. Cut inference cost via cost-tiered model routing (Ollama/AWS Bedrock) with guard-triggered escalation, and hardened SQL execution with a three-layer sqlglot-based safety guard.</td>
+<td align="left"><code>Python</code> <code>FastAPI</code> <code>LangChain</code> <code>pgvector</code> <code>PostgreSQL</code> <code>SQL Server</code> <code>React</code> <code>TypeScript</code> <code>Ollama</code> <code>AWS Bedrock</code></td>
+<td align="center">
+
+![Private](https://img.shields.io/badge/🔒_TEAM_PROJECT-6e7681?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+![S-Rank](https://img.shields.io/badge/★_S--RANK-ff3c3c?style=for-the-badge)
+
+</td>
 <td align="left"><b>Churn Predictor Bot</b></td>
 <td align="left">ML-powered customer churn prediction engine. Random Forest classifier tuned with GridSearchCV; class imbalance neutralized via SMOTE. Achieves <b>80%+ accuracy</b>. Deployed with a live Streamlit UI for real-time predictions and interactive visualization.</td>
 <td align="left"><code>Python</code> <code>scikit-learn</code> <code>SMOTE</code> <code>Streamlit</code> <code>Pandas</code> <code>GridSearchCV</code></td>
@@ -283,6 +300,22 @@ Trained and supervised student workers on the Track-IT ticketing system.
 <td align="center">
 
 [![View](https://img.shields.io/badge/DEPLOY_%E2%86%92-00d4ff?style=flat-square)](https://github.com/SusanoKevin/LangrisserBot)
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+![B-Rank](https://img.shields.io/badge/◆_B--RANK-29b5e8?style=for-the-badge)
+
+</td>
+<td align="left"><b>PySpark AI Agent — Databricks Code-Generation Agent</b></td>
+<td align="left">Autonomous code-generation agent (smolagents CodeAgent) that writes, executes, and self-repairs PySpark code against live Databricks workspaces via Databricks Connect, powered by Qwen2.5 Coder 14B via Ollama/LiteLLM. Enforces read-only, injection-safe SQL execution via sqlglot plus a restricted import sandbox, with a streaming FastAPI + SSE backend and a FastMCP server for Claude Code.</td>
+<td align="left"><code>Python</code> <code>PySpark</code> <code>smolagents</code> <code>Databricks Connect</code> <code>FastAPI</code> <code>sqlglot</code></td>
+<td align="center">
+
+[![View](https://img.shields.io/badge/DEPLOY_%E2%86%92-00d4ff?style=flat-square)](https://github.com/SusanoKevin/Pyspark-AI-Agent)
 
 </td>
 </tr>
