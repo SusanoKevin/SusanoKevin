@@ -346,7 +346,7 @@ Trained and supervised student workers on the Track-IT ticketing system.
 
 <div align="center">
 
-[![Snowflake](https://img.shields.io/badge/★_Snowflake_Platform_Training-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](https://www.snowflake.com/)&nbsp;
+[![Snowflake](https://img.shields.io/badge/★_SnowPro_Associate%3A_Platform_Certification-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](https://www.snowflake.com/)&nbsp;
 ![Issued](https://img.shields.io/badge/Issued-June%202025-ffffff?style=for-the-badge&logo=checkmarx&logoColor=29B5E8)
 
 </div>
