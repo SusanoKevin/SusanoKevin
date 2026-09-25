@@ -186,6 +186,8 @@ Building a **production-grade AI-powered data analyst agent** deployed to 100+ e
 - Developed an interactive **React/Recharts** dashboard with Power BI–style cross-filtering and drill-down
 - Built a Jupyter notebook and an **MCP server** integration for Claude Code
 - Collaborated on rebuilding the platform as a multitenant SaaS product (**Excellerate Bot**) — `context_id` tenancy over **PostgreSQL/SQL Server**, **pgvector RAG**, cost-tiered model routing across **Ollama/AWS Bedrock** with guard-triggered escalation, and a three-layer **sqlglot**-based SQL safety guard
+- Built Excellerate Bot's on-demand **Reports tab**: a cached `GET /chat/{message_id}/chart` endpoint where the LLM picks the best chart (bar, line, pie, stat, or none) for a result table, with every field validated against the real columns, rendered as dependency-free inline **SVG** in the React widget
+- Added pre-create DSN validation to the admin panel and fixed a chat-widget bug that silently capped results at 50 rows
 
 </details>
 
@@ -247,7 +249,7 @@ Trained and supervised student workers on the Track-IT ticketing system.
 
 </td>
 <td align="left"><b>Excellerate Bot</b></td>
-<td align="left">Multitenant natural-language-to-SQL chatbot platform for Excellerate Education Solutions. <code>context_id</code>-scoped tenants over PostgreSQL and SQL Server, pgvector RAG for schema-grounded SQL generation, and a self-serve admin panel. Cut inference cost via cost-tiered model routing (Ollama/AWS Bedrock) with guard-triggered escalation, and hardened SQL execution with a three-layer sqlglot-based safety guard.</td>
+<td align="left">Multitenant natural-language-to-SQL chatbot platform for Excellerate Education Solutions. <code>context_id</code>-scoped tenants over PostgreSQL and SQL Server, pgvector RAG for schema-grounded SQL generation, and a self-serve admin panel. Cut inference cost via cost-tiered model routing (Ollama/AWS Bedrock) with guard-triggered escalation, and hardened SQL execution with a three-layer sqlglot-based safety guard. Includes an LLM-recommended chart view (Reports tab) for query results.</td>
 <td align="left"><code>Python</code> <code>FastAPI</code> <code>LangChain</code> <code>pgvector</code> <code>PostgreSQL</code> <code>SQL Server</code> <code>React</code> <code>TypeScript</code> <code>Ollama</code> <code>AWS Bedrock</code></td>
 <td align="center">
 
