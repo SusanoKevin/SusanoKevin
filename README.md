@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%E2%80%94+Agentic+AI+%26+Full-Stack;LangGraph+%E2%80%A2+RAG+%E2%80%A2+FastAPI+%E2%80%A2+ChromaDB;Python+%E2%80%A2+AWS+Bedrock+%E2%80%A2+Snowflake+%E2%80%A2+Redis+%E2%80%A2+Docker;M.S.+IT+Management+%E2%80%94+Data+Analytics+%26+AI+%7C+UW-Milwaukee;Current+Status%3A+ACTIVE+%E2%80%94+Excellerate+Education+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%E2%80%94+Agentic+AI+%26+Full-Stack;LangGraph+%E2%80%A2+RAG+%E2%80%A2+FastAPI+%E2%80%A2+ChromaDB;Python+%E2%80%A2+Snowflake+%E2%80%A2+Redis+%E2%80%A2+Docker;M.S.+IT+Management+%E2%80%94+Data+Analytics+%26+AI+%7C+UW-Milwaukee;Current+Status%3A+ACTIVE+%E2%80%94+Excellerate+Education+Solutions)](https://git.io/typing-svg)
 
 </div>
 
@@ -108,10 +108,6 @@ directive:      "Turn raw data into decisive intelligence."
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### Cloud Platforms
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
 ### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -146,7 +142,6 @@ directive:      "Turn raw data into decisive intelligence."
 | Docker | `███████▒░░` | 78% |
 | Matplotlib / Seaborn | `███████▒░░` | 78% |
 | Snowflake | `███████▒░░` | 78% |
-| AWS | `███████░░░` | 75% |
 | MLflow | `███████░░░` | 75% |
 | Apache Airflow | `███████░░░` | 75% |
 | FAISS / ChromaDB | `███████░░░` | 75% |
@@ -178,14 +173,14 @@ directive:      "Turn raw data into decisive intelligence."
 
 > *Location: Illinois*
 
-Building a **production-grade AI-powered data analyst agent** deployed to 100+ educational institutions across the U.S. and India, on the **Excelsis360** education platform, and collaborating on **Excellerate Bot** — a multitenant natural-language-to-SQL platform for the org.
+Building a **production-grade AI-powered data analyst agent** on the **Excelsis360** education platform, and collaborating on **Excellerate Bot** — a multitenant natural-language-to-SQL platform for the org.
 
-- Built a production-grade AI-powered data analyst agent using **LangGraph's ReAct framework**, deployed to **100+ educational institutions** across the U.S. and India, to answer natural-language questions over SQL Server data
+- Built a production-grade AI-powered data analyst agent using **LangGraph's ReAct framework** to answer natural-language questions over SQL Server data
 - Delivered a token-by-token streaming chat experience through a **FastAPI + SSE** backend, and implemented a **RAG knowledge base with ChromaDB** to ground SQL and policy queries
 - Secured the API with **JWT authentication** and **Redis**-backed rate limiting
 - Developed an interactive **React/Recharts** dashboard with Power BI–style cross-filtering and drill-down
 - Built a Jupyter notebook and an **MCP server** integration for Claude Code
-- Collaborated on rebuilding the platform as a multitenant SaaS product (**Excellerate Bot**) — `context_id` tenancy over **PostgreSQL/SQL Server**, **pgvector RAG**, cost-tiered model routing across **Ollama/AWS Bedrock** with guard-triggered escalation, and a three-layer **sqlglot**-based SQL safety guard
+- Collaborated on rebuilding the platform as a multitenant SaaS product (**Excellerate Bot**) — `context_id` tenancy over **PostgreSQL/SQL Server**, **pgvector RAG**, cost-tiered model routing with guard-triggered escalation, and a three-layer **sqlglot**-based SQL safety guard
 - Built Excellerate Bot's on-demand **Reports tab**: a cached `GET /chat/{message_id}/chart` endpoint where the LLM picks the best chart (bar, line, pie, stat, or none) for a result table, with every field validated against the real columns, rendered as dependency-free inline **SVG** in the React widget
 - Added pre-create DSN validation to the admin panel and fixed a chat-widget bug that silently capped results at 50 rows
 
@@ -249,8 +244,8 @@ Trained and supervised student workers on the Track-IT ticketing system.
 
 </td>
 <td align="left"><b>Excellerate Bot</b></td>
-<td align="left">Multitenant natural-language-to-SQL chatbot platform for Excellerate Education Solutions. <code>context_id</code>-scoped tenants over PostgreSQL and SQL Server, pgvector RAG for schema-grounded SQL generation, and a self-serve admin panel. Cut inference cost via cost-tiered model routing (Ollama/AWS Bedrock) with guard-triggered escalation, and hardened SQL execution with a three-layer sqlglot-based safety guard. Includes an LLM-recommended chart view (Reports tab) for query results.</td>
-<td align="left"><code>Python</code> <code>FastAPI</code> <code>LangChain</code> <code>pgvector</code> <code>PostgreSQL</code> <code>SQL Server</code> <code>React</code> <code>TypeScript</code> <code>Ollama</code> <code>AWS Bedrock</code></td>
+<td align="left">Multitenant natural-language-to-SQL chatbot platform for Excellerate Education Solutions. <code>context_id</code>-scoped tenants over PostgreSQL and SQL Server, pgvector RAG for schema-grounded SQL generation, and a self-serve admin panel. Cut inference cost via cost-tiered model routing with guard-triggered escalation, and hardened SQL execution with a three-layer sqlglot-based safety guard. Includes an LLM-recommended chart view (Reports tab) for query results.</td>
+<td align="left"><code>Python</code> <code>FastAPI</code> <code>LangChain</code> <code>pgvector</code> <code>PostgreSQL</code> <code>SQL Server</code> <code>React</code> <code>TypeScript</code> <code>Ollama</code></td>
 <td align="center">
 
 ![Private](https://img.shields.io/badge/🔒_TEAM_PROJECT-6e7681?style=flat-square)
