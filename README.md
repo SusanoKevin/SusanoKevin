@@ -1,6 +1,6 @@
 # Hi, I'm Susano Kevin
 
-Software engineer with three years of university IT help desk experience. I build and support production AI and data applications in Python, SQL, and TypeScript, and I'm looking for **IT support, technical support, support engineering, implementation, and applied AI** roles in the US.
+Software engineer with three years of university IT help desk experience. I build, test, and support production applications in Python, SQL, and TypeScript (including Playwright and pytest test automation), and I'm looking for **software engineering, QA automation, IT support, technical support, and implementation** roles in the US.
 
 - Software Engineer at **Excellerate Education Solutions** (Jan 2026 - present)
 - Help Desk Technician at **Carroll University** and **Cardinal Stritch University** (2021 - 2024)
