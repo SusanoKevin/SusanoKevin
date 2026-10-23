@@ -15,11 +15,12 @@ Customer-focused IT Support Specialist in the Greater Milwaukee area with hands-
 - **Hardware & peripherals:** desktops, laptops, ID badge and card printers, printers, projectors, smartboards, Wi-Fi configuration, peripheral troubleshooting
 - **User & account support:** password resets, account unlocks, remote triage, phone and email support, end-user orientation and training, technical manual writing
 - **Operating systems & data:** Windows 10/11, macOS, Ubuntu, SQL Server queries, Grafana monitoring dashboards
+- **Version control & CI/CD:** Git, GitHub, GitHub CI/CD pipelines
 
 ## What I've done
 - **Cardinal Stritch University (Tier 2):** re-imaged, configured, and deployed laptops and desktops for staff and computer labs; handled 8-15 tickets on standard days and 20-30+ daily during peak semester starts; ran hardware diagnostics and replaced RAM, storage drives, and power supplies; operated ID badge printing equipment (photo IDs, card encoding, access credentials); resolved issues with ID card printers, network printers, projectors, smartboards, and Wi-Fi; supervised student workers in Track-IT; wrote step-by-step troubleshooting guides for users of every technical comfort level, including aging staff.
 - **Carroll University (Tier 1):** phone and email support in TeamDynamix (TDX) with ticket logging, triage, and resolution tracking; password resets, account unlocks, and initial software troubleshooting within established response windows; escalated complex issues to senior teams.
-- **Excellerate Education Solutions:** support production web applications: troubleshoot client-reported issues through logs, API responses, and SQL Server queries; manage user accounts and access; fixed a reporting defect that silently capped results at 50 rows.
+- **Excellerate Education Solutions:** support production web applications: troubleshoot client-reported issues through logs, API responses, and SQL Server queries; manage user accounts and access; fixed a reporting defect that silently capped results at 50 rows; manage code changes with Git and GitHub and use GitHub CI/CD pipelines to automate testing and deployment.
 
 ## Projects
 | Project | What it does | Stack |
