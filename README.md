@@ -1,8 +1,8 @@
 ## Hi, I'm Susano Kevin
 
-Entry-level AI engineer in Milwaukee, WI. I build LLM-powered tools with Python and test them with Playwright. M.S. in IT Management (AI & Data Analytics), UW-Milwaukee, plus three years of university IT help desk experience.
+AI engineer and IT support specialist in Milwaukee, WI. I build LLM-powered tools with Python, test them with Playwright, and bring three years of university help desk and desktop support experience to every project. M.S. in IT Management (AI & Data Analytics), UW-Milwaukee.
 
-Looking for entry-level AI engineer, AI automation, and AI QA roles in Wisconsin or remote.
+Looking for AI engineer, AI automation, and IT support / help desk roles in Wisconsin, open to relocation, or remote. I'm especially interested in AI for IT service management: ticket triage, knowledge base search, and self-service assistants.
 
 ### What I've built
 
@@ -11,13 +11,21 @@ Looking for entry-level AI engineer, AI automation, and AI QA roles in Wisconsin
 - **[Churn-Predictor](https://github.com/SusanoKevin/Churn-Predictor):** Random Forest churn classifier with SMOTE on the Kaggle Telco dataset, served through a Streamlit app.
 - **[LangrisserBot](https://github.com/SusanoKevin/LangrisserBot):** Discord slash-command bot (discord.py) with game data that auto-refreshes every 4 hours.
 
+### IT support experience
+
+- Tier 1 and Tier 2 help desk and desktop support for faculty, staff, and students at two Wisconsin universities
+- 8 to 15 tickets a day, 20 to 30+ at semester start, tracked in TeamDynamix and Track-IT within response targets
+- Windows imaging and deployment, hardware repair (RAM, SSDs), printers, classroom AV, Wi-Fi and VPN troubleshooting
+- Knowledge base guides, user training, and supervising student workers
+
 ### Skills
 
 - **AI & LLM:** LangGraph, RAG, ChromaDB, embeddings, Ollama, Model Context Protocol (MCP), prompt engineering, Claude Code
 - **Code & APIs:** Python, TypeScript (Playwright), SQL (coursework), FastAPI, REST APIs, role-based access control, Git
+- **IT support & ITSM:** TeamDynamix (TDX), Track-IT, Jira, ticket triage, escalation, knowledge base articles, Windows imaging and deployment, Active Directory (fundamentals)
 - **Testing & monitoring:** Playwright, Grafana, Prometheus
 - **ML & data:** pandas, scikit-learn, Streamlit, SnowPro Associate: Platform Certification
-- **Tools:** Jira, Agile/Scrum, Linux (Ubuntu, Arch), macOS, Windows
+- **Platforms:** Windows, macOS, Linux (Ubuntu, Arch), VMware and Hyper-V (familiarity)
 
 ### Experience
 
