@@ -6,7 +6,7 @@ Looking for entry-level AI engineer, AI automation, and AI QA roles in Wisconsin
 
 ### What I've built
 
-- **AI assistant prototype (Excellerate Education Solutions, private):** LangGraph agent, RAG with ChromaDB, Ollama-hosted LLMs, FastAPI backend, and an MCP server exposing its tools to Claude Code. I also set up role-based access control and monitored API and token usage in Grafana and Prometheus.
+- **AI data analyst prototype (Excellerate Education Solutions, private):** shows dashboards and predicts student attendance rates and exam scores from existing school data. Built with a LangGraph agent, RAG with ChromaDB, Ollama-hosted LLMs, FastAPI backend, and an MCP server exposing its tools to Claude Code. I also set up role-based access control and monitored API and token usage in Grafana and Prometheus.
 - **Playwright test suites (Excellerate, private):** TypeScript end-to-end tests for an ERP and an applicant tracking web app.
 - **[Churn-Predictor](https://github.com/SusanoKevin/Churn-Predictor):** Random Forest churn classifier with SMOTE on the Kaggle Telco dataset, served through a Streamlit app.
 - **[LangrisserBot](https://github.com/SusanoKevin/LangrisserBot):** Discord slash-command bot (discord.py) with game data that auto-refreshes every 4 hours.
