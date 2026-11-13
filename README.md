@@ -6,7 +6,7 @@ Looking for AI engineer, AI automation, and IT support / help desk roles in Wisc
 
 ### What I've built
 
-- **AI data analyst prototype (Excellerate Education Solutions, private):** shows dashboards and predicts student attendance rates and exam scores from existing school data. Built with a LangGraph agent, RAG with ChromaDB, Ollama-hosted LLMs, FastAPI backend, and an MCP server exposing its tools to Claude Code. I also set up role-based access control and monitored API and token usage in Grafana and Prometheus.
+- **AI data analyst prototype (Excellerate Education Solutions, private):** shows dashboards and predicts student attendance rates and exam scores from existing PostgreSQL data. Built in Python with a LangGraph agent, RAG with ChromaDB, Ollama-hosted LLMs, a FastAPI backend (Pydantic, Uvicorn), and an MCP server exposing its tools to Claude Code, with services run in Docker and Docker Compose. I also set up role-based access control and monitored API and token usage in Grafana and Prometheus.
 - **Playwright test suites (Excellerate, private):** TypeScript end-to-end tests for an ERP and an applicant tracking web app.
 - **[Churn-Predictor](https://github.com/SusanoKevin/Churn-Predictor):** Random Forest churn classifier with SMOTE on the Kaggle Telco dataset, served through a Streamlit app.
 - **[LangrisserBot](https://github.com/SusanoKevin/LangrisserBot):** Discord slash-command bot (discord.py) with game data that auto-refreshes every 4 hours.
@@ -21,9 +21,9 @@ Looking for AI engineer, AI automation, and IT support / help desk roles in Wisc
 ### Skills
 
 - **AI & LLM:** LangGraph, RAG, ChromaDB, embeddings, Ollama, Model Context Protocol (MCP), prompt engineering, Claude Code
-- **Code & APIs:** Python, TypeScript (Playwright), SQL (coursework), FastAPI, REST APIs, role-based access control, Git
+- **Code & APIs:** Python, TypeScript (Playwright), SQL (PostgreSQL), FastAPI, Pydantic, Uvicorn, REST APIs, role-based access control
 - **IT support & ITSM:** TeamDynamix (TDX), Track-IT, Jira, ticket triage, escalation, knowledge base articles, Windows imaging and deployment, Active Directory (fundamentals)
-- **Testing & monitoring:** Playwright, Grafana, Prometheus
+- **DevOps, testing & monitoring:** Docker, Docker Compose, Git, CI/CD, Playwright, Grafana, Prometheus
 - **ML & data:** pandas, scikit-learn, Streamlit, SnowPro Associate: Platform Certification
 - **Platforms:** Windows, macOS, Linux (Ubuntu, Arch), VMware and Hyper-V (familiarity)
 
